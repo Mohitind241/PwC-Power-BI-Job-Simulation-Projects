@@ -1,5 +1,5 @@
 ## 📊 PwC Power BI Job Simulation – Forage
-Duration**: July 2024 – August 2024
+Duration: July 2024 – August 2024
 
 This repository contains my work from the **PwC Switzerland Power BI Job Simulation** hosted on the Forage platform. The simulation was designed to develop and assess core skills in **data analysis, visualization, business communication**, and **diversity & inclusion reporting**.
 
